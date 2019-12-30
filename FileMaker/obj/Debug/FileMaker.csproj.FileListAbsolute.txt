@@ -1,0 +1,22 @@
+C:\Users\zipko\source\repos\FileMaker\FileMaker\bin\Debug\FileMaker.exe.config
+C:\Users\zipko\source\repos\FileMaker\FileMaker\bin\Debug\FileMaker.exe
+C:\Users\zipko\source\repos\FileMaker\FileMaker\bin\Debug\FileMaker.pdb
+C:\Users\zipko\source\repos\FileMaker\FileMaker\obj\Debug\FileMaker.csprojAssemblyReference.cache
+C:\Users\zipko\source\repos\FileMaker\FileMaker\obj\Debug\FileMaker.Form1.resources
+C:\Users\zipko\source\repos\FileMaker\FileMaker\obj\Debug\FileMaker.Properties.Resources.resources
+C:\Users\zipko\source\repos\FileMaker\FileMaker\obj\Debug\FileMaker.csproj.GenerateResource.cache
+C:\Users\zipko\source\repos\FileMaker\FileMaker\obj\Debug\FileMaker.exe
+C:\Users\zipko\source\repos\FileMaker\FileMaker\obj\Debug\FileMaker.pdb
+C:\Users\zipko\source\repos\FileMaker\FileMaker\obj\Debug\FileMaker.Set.resources
+C:\Users\zipko\source\repos\FileMaker\FileMaker\obj\Debug\FileMaker.HelpForm.resources
+C:\Users\zipko\source\repos\FileMaker — копия\FileMaker\bin\Debug\FileMaker.exe.config
+C:\Users\zipko\source\repos\FileMaker — копия\FileMaker\bin\Debug\FileMaker.exe
+C:\Users\zipko\source\repos\FileMaker — копия\FileMaker\bin\Debug\FileMaker.pdb
+C:\Users\zipko\source\repos\FileMaker — копия\FileMaker\obj\Debug\FileMaker.csprojAssemblyReference.cache
+C:\Users\zipko\source\repos\FileMaker — копия\FileMaker\obj\Debug\FileMaker.Form1.resources
+C:\Users\zipko\source\repos\FileMaker — копия\FileMaker\obj\Debug\FileMaker.HelpForm.resources
+C:\Users\zipko\source\repos\FileMaker — копия\FileMaker\obj\Debug\FileMaker.Properties.Resources.resources
+C:\Users\zipko\source\repos\FileMaker — копия\FileMaker\obj\Debug\FileMaker.Set.resources
+C:\Users\zipko\source\repos\FileMaker — копия\FileMaker\obj\Debug\FileMaker.csproj.GenerateResource.cache
+C:\Users\zipko\source\repos\FileMaker — копия\FileMaker\obj\Debug\FileMaker.exe
+C:\Users\zipko\source\repos\FileMaker — копия\FileMaker\obj\Debug\FileMaker.pdb
